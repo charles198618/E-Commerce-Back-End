@@ -8,12 +8,12 @@ We use postman to request data. Therefore when I invoque the application, my ser
 
 
 Below is the link to Walk-hrough video:
-![video](./E-Commerce-Back-End.mp4)
+![video](./E-Commerce-Backend.gif)
 
 
 ## OBJECTIVES
 
-The motivation that pushed me to realize this project is because I wanted to solve a problem in society. I wanted to be able to create an application for running business. So me as developper will be able to create data, update, delete, protect them with .env file and so on.
+The motivation that pushed me to realize this project is because I wanted to solve a problem in society. I wanted to be able to create an application for running a business. So, me as developper will be able to create data, update, delete, protect them with .env file and so on.
 
 ## Languages used
 
