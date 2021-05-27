@@ -7,7 +7,7 @@ This is an e-commerce application that I'm creating. Basically, the task is to b
 We use postman to request data. Therefore when I invoque the application, my server starts and sequelize mode are synced to my mysql database. When I open api route, for category, product, and tags, data for each of those routes are displayed and formatted in json. Thus, when I was able to request data from all the routes. Also update, delete or retrieve data.
 
 
-Below is the link to Walk-hrough video:
+Below is the link to Walk-through video:
 ![video](./E-Commerce-Backend.gif)
 
 
